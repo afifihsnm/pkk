@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "GamaFont Regular";
+    src: url('./assets/font/Gamafont-Regular.ttf');
+ }
+
+* {
+    font-family: GamaFont Regular;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 1.15em;
+}
+
+.proposal {
+    margin: 4cm 3cm 3cm 4cm;
+}
+
+.proposal .main {
+    margin-top: 10rem;
+}
+
+.header .title {
+    font-size: 2em;
+}
+
+.header .title img {
+    width: 314px;
+    margin: 3rem 0;
+}
+
+.header .kelompok {
+    font-size: 2em;
+}
+
+.main .bab1 p {
+    text-indent: 5rem;
+}
+
+.main .bab1 .list {
+    text-indent: 0;
+    text-decoration: none;
+}
