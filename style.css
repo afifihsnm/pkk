@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "GamaFont Regular";
-    src: url('./assets/font/Gamafont-Regular.ttf');
+    font-family: GamaFont-Regular;
+    src: url(./assets/font/GamaFont-Regular.ttf) format("truetype");
  }
 
 * {
-    font-family: GamaFont Regular;
+    font-family: GamaFont-Regular;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
